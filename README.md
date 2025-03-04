@@ -1,41 +1,9 @@
-# Judul Tugas
+# TUGAS 1 Flutter: Membuat Aplikasi "I Am ___"
 
-[Judul Tugas Anda]
+## Mata Kuliah Pemrograman Mobile
+[Deadline 5 Maret 2025 00.00 WIB]
+## Kelompok 2:
 
-## Mata Kuliah
-
-[Nama Mata Kuliah]
-
-## Nomor Kelompok
-
-[Nomor Kelompok Anda]
-
-## Nama Kelompok
-
-* [Nama Anggota 1]
-* [Nama Anggota 2]
-* [Nama Anggota 3]
-    * ... dan seterusnya.
-
-## Deskripsi Tugas
-
-[Deskripsi singkat tentang tugas yang dikerjakan.]
-
-## Cara Menjalankan Aplikasi
-
-[Instruksi tentang cara menjalankan aplikasi, jika ada.]
-
-## Teknologi yang Digunakan
-
-* [Teknologi 1]
-* [Teknologi 2]
-* [Teknologi 3]
-    * ... dan seterusnya.
-
-## Screenshot
-
-[Tambahkan screenshot aplikasi atau hasil tugas di sini, jika ada.]
-
-## Catatan Tambahan
-
-[Tambahkan catatan tambahan jika perlu.]
+* [Moch Agzhandy Rakha Pratama		23091397116]
+* [Mohammad Syahlefi Ghoni Al Maghfur	23091397117]
+* [Muhammad Nizar Amirul Haq		23091397137]
