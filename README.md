@@ -1,8 +1,15 @@
 # i_am_rich_maybe
 
-A new Flutter project.
+TUGAS 1 Flutter: Membuat Aplikasi "I Am ___"
+Mata kuliah Pemrograman Mobile
+Deadline 5 Maret 2025 00.00 WIB
 
-## Getting Started
+## Kelompok 2:
+
+* Moch Agzhandy Rakha Pratama		23091397116
+* Mohammad Syahlefi Ghoni Al Maghfur	23091397117
+* Muhammad Nizar Amirul Haq		23091397137
+
 
 This project is a starting point for a Flutter application.
 
