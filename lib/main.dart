@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              Image.asset('assets/logo.png', width: 150),
+              Image.asset('images/logo.png', width: 150),
               const SizedBox(height: 20),
               Container(
                 padding: const EdgeInsets.all(16),
