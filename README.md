@@ -1,7 +1,7 @@
 # i_am_rich_maybe
 
-TUGAS 1 Flutter: Membuat Aplikasi "I Am ___"
-Mata kuliah Pemrograman Mobile
+TUGAS 1 Flutter: Membuat Aplikasi "I Am ___" <br>
+Mata kuliah Pemrograman Mobile <br>
 Deadline 5 Maret 2025 00.00 WIB
 
 ## Kelompok 2:
